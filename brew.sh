@@ -106,7 +106,7 @@ brew install yarn
 brew install stripe
 brew install pyenv
 brew install postgres
-brew install heroku
+brew tap heroku/brew && brew install heroku
 brew install fastlane
 brew install gh
 
