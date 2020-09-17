@@ -108,6 +108,7 @@ brew install pyenv
 brew install postgres
 brew install heroku
 brew install fastlane
+brew install gh
 
 # Remove outdated versions from the cellar.
 brew cleanup
