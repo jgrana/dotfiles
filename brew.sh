@@ -97,5 +97,17 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Languages
+brew install ruby
+brew install python
+
+# Added binaries
+brew install yarn
+brew install stripe
+brew install pyenv
+brew install postgres
+brew install heroku
+brew install fastlane
+
 # Remove outdated versions from the cellar.
 brew cleanup
